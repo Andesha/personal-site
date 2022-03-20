@@ -13,27 +13,30 @@ theme = "LoveIt"
   version = "0.2.X"
   defaultTheme = "dark"
   dateFormat = "2006-01-02"
-  # LoveIt NEW | 0.2.0 Search config
+
   [params.search]
     enable = true
-    # type of search engine ("lunr", "algolia")
     type = "lunr"
-    # max index length of the chunked content
     contentLength = 4000
-    # placeholder of the search bar
     placeholder = ""
-    # LoveIt NEW | 0.2.1 max number of results length
     maxResultLength = 10
-    # LoveIt NEW | 0.2.3 snippet length of the result
     snippetLength = 30
-    # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
     highlightTag = "em"
-    # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
     [params.search.algolia]
       index = ""
       appID = ""
       searchKey = ""
+
+  # Footer config
+  [params.footer]
+    enable = true
+    custom = ''
+    hugo = true
+    copyright = true
+    author = true
+    since = 2022
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 
 [menu]
