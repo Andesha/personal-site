@@ -41,9 +41,9 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "mainPhoto.jpg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "test"
       # subtitle shown in home page
       subtitle = "hey hi hello"
       # whether to show social links
@@ -61,16 +61,8 @@ theme = "LoveIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
+    GitHub = "andesha"
     Linkedin = ""
-    Twitter = "xxxx"
-    Medium = ""
-    Tumblr = ""
-    Quora = ""
-    Keybase = ""
-    Bitbucket = ""
-    Stackoverflow = ""
-    Strava = ""
     Googlescholar = ""
     Researchgate = ""
     Email = "xxxx@xxxx.com"
