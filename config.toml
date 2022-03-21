@@ -64,9 +64,9 @@ theme = "LoveIt"
   [params.social]
     GitHub = "andesha"
     Linkedin = ""
-    Googlescholar = ""
+    Googlescholar = "https://scholar.google.com/citations?hl=en&authuser=1&user=-QChIzQAAAAJ"
     Researchgate = ""
-    Email = "xxxx@xxxx.com"
+    Email = "collins.tyler.k@gmail.com"
     RSS = true # LoveIt NEW | 0.2.0
 
 [menu]
