@@ -3,7 +3,7 @@ title: "Cython: A First Look"
 subtitle: "Surely not 40x, right?"
 date: 2022-03-20T14:40:38-04:00
 draft: false
-tags: ["talks", "python"]
+tags: ["talk", "python"]
 ---
 
 Back when I first got hired at SHARCNET, I used a lot of Python. I mean a lot. What this meant is that I quickly became the lightning rod for all Python related questions (and commentary).
