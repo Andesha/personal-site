@@ -2,7 +2,7 @@
 title: "Conquering the Scheduler"
 subtitle: "... or maybe any scheduler?"
 date: 2022-03-22T00:50:54-04:00
-draft: true
+draft: false
 tags: ["talk", "scheduling"]
 ---
 
